@@ -1,0 +1,10 @@
+{
+  "sql": {   
+    "select": "prvdr_id, lgl_name, ccn",
+    "from": "provider.prvdr",
+    "orderBy":"lgl_name",
+    "limit":100,
+    "offset":100
+  },
+  "replacements": {}
+}

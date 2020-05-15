@@ -1,0 +1,10 @@
+{
+  "sql": {
+    "select": "rgn_id, count(*)",
+    "from": "location.state",
+    "groupBy": "rgn_id",
+    "orderBy": "rgn_id",
+    "having": "rgn_id=:rgn_id"
+  },
+  "replacements": { "rgn_id": 1 }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "javascript_example",
+  "version": "1.0.0",
+  "description": "Node example for state api",
+  "main": "run_api_call.js",
+  "scripts": {
+    "start": "node run_api_call.js"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "json-2-csv": "^3.6.2",
+    "node-fetch": "^2.6.0"
+  }
+}

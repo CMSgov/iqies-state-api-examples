@@ -1,0 +1,17 @@
+{
+  "sql": {
+    "select": "p.prvdr_id,p.lgl_name,pt.prvdr_type_name,ps.prvdr_sbtyp_name",
+    "from": "provider.prvdr p",
+    "joins": [
+      {
+        "leftJoin": "provider.prvdr_type pt",
+        "on": "p.prvdr_type_id =pt.prvdr_type_id"
+      },
+      {
+        "leftJoin": "provider.prvdr_sbtyp ps",
+        "on": "p.prvdr_sbtyp_id =ps.prvdr_sbtyp_id"
+      }
+    ]
+  },
+  "replacements": {}
+}

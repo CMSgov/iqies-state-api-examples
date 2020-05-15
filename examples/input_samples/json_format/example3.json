@@ -1,0 +1,13 @@
+{
+  "sql": {
+    "select": "p.prvdr_id, p.lgl_name, p.ccn,pt.prvdr_type_name",
+    "from": "provider.prvdr p",
+    "joins": [
+      {
+        "innerJoin": "provider.prvdr_type pt",
+        "on": "p.prvdr_type_id =pt.prvdr_type_id"
+      }
+    ]
+  },
+  "replacements": {}
+}

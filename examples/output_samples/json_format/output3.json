@@ -1,0 +1,3002 @@
+[
+    {
+        "ccn": "337294",
+        "lgl_name": "Sisters Of Charity H Hlth Care",
+        "prvdr_id": 323487,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1484677,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1633734,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337283",
+        "lgl_name": null,
+        "prvdr_id": 1041147,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 154164,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "Provider Name",
+        "prvdr_id": 58492,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337409",
+        "lgl_name": "Broadlawn Manor Lthhcp",
+        "prvdr_id": 323504,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337066",
+        "lgl_name": "Genesee Region Home Care Association, Inc.",
+        "prvdr_id": 323319,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1487552,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1508703,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1645900,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 155892,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 160472,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337056",
+        "lgl_name": "Jefferson Co Pub Hlth Svs Chha",
+        "prvdr_id": 323313,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337076",
+        "lgl_name": "Visiting Nurse Service Association of Schenectady County, Inc.",
+        "prvdr_id": 323325,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1600581,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "Test provider 3",
+        "prvdr_id": 5722,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1593932,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337115",
+        "lgl_name": "St. Vincent Catholic Medical Centers Home Health Care, Inc.",
+        "prvdr_id": 323343,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1572360,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1485277,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1564271,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 154163,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1606326,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1633739,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337442",
+        "lgl_name": "Northern Lights Health Care Partnership, Inc.",
+        "prvdr_id": 1319447,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "Denzel's HHA provider",
+        "prvdr_id": 1601329,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1572356,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337160",
+        "lgl_name": "Flushing Hosp Med Ctr Hcd",
+        "prvdr_id": 323369,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "Denzel's HHA provider",
+        "prvdr_id": 122092,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 155151,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1610065,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1485267,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 157652,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1597476,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1600577,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "330102",
+        "lgl_name": null,
+        "prvdr_id": 321904,
+        "prvdr_type_name": "Hospitals"
+    },
+    {
+        "ccn": "333027",
+        "lgl_name": null,
+        "prvdr_id": 322435,
+        "prvdr_type_name": "Hospitals"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 160467,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 154167,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "vnewyork1",
+        "prvdr_id": 5719,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1556455,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "Denzel's HHA provider",
+        "prvdr_id": 1523995,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 162624,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337042",
+        "lgl_name": "Westchester Co Doh Chha",
+        "prvdr_id": 323305,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1618161,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1595732,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1567089,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337227",
+        "lgl_name": "Westchester County Health Care Corporation",
+        "prvdr_id": 323427,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1611780,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 155147,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 156629,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1564167,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "Denzel's HHA provider",
+        "prvdr_id": 118130,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1611777,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 162998,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1639188,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1604387,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1485866,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "Denzel's HHA provider",
+        "prvdr_id": 109089,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1637378,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 155933,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1564180,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337170",
+        "lgl_name": "Long Island Jewish Mc Chha",
+        "prvdr_id": 323377,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 157204,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1636029,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1528740,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 154157,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337201",
+        "lgl_name": "Lutheran Center at Poughkeepsie, Inc.",
+        "prvdr_id": 323405,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1441388,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1631761,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1635595,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337439",
+        "lgl_name": "A & T Certified Home Care, LLC",
+        "prvdr_id": 1251742,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337137",
+        "lgl_name": "Wyoming Co Doh Chha",
+        "prvdr_id": 323354,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 157653,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337010",
+        "lgl_name": "Vns Rochester Monroe Co Chha",
+        "prvdr_id": 323287,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337451",
+        "lgl_name": "Your Choice At Home, Inc",
+        "prvdr_id": 1341062,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1621138,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1546987,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1616269,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "330285",
+        "lgl_name": null,
+        "prvdr_id": 322034,
+        "prvdr_type_name": "Hospitals"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1493354,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "Denzel's HHA provider",
+        "prvdr_id": 117907,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337218",
+        "lgl_name": "Yertle Operations, LLC",
+        "prvdr_id": 323420,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1657220,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 155931,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337252",
+        "lgl_name": "Us Homecare Cert Corp Ny Chha",
+        "prvdr_id": 323449,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337417",
+        "lgl_name": "Elant at Goshen, Inc.",
+        "prvdr_id": 323512,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "330394",
+        "lgl_name": null,
+        "prvdr_id": 322071,
+        "prvdr_type_name": "Hospitals"
+    },
+    {
+        "ccn": "337432",
+        "lgl_name": "Park Gardens Rehabilitation and Nursing Center, LLC",
+        "prvdr_id": 1194576,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 156611,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "330108",
+        "lgl_name": null,
+        "prvdr_id": 321909,
+        "prvdr_type_name": "Hospitals"
+    },
+    {
+        "ccn": "337254",
+        "lgl_name": "Samaritan Home Health, Inc.",
+        "prvdr_id": 323451,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 155149,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1616267,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1485275,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1580852,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "Denzel's HHA provider",
+        "prvdr_id": 1639846,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1631753,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "Home Care assistance New York",
+        "prvdr_id": 29980,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1610060,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337074",
+        "lgl_name": "Fulton Co Nursing Svs Chha",
+        "prvdr_id": 323323,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1623542,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 155474,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1606330,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337277",
+        "lgl_name": "Hudson Valley Care Partners, LLC",
+        "prvdr_id": 323472,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1441385,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337024",
+        "lgl_name": "L. Woerner, Inc.",
+        "prvdr_id": 323296,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1508716,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "330057",
+        "lgl_name": null,
+        "prvdr_id": 321871,
+        "prvdr_type_name": "Hospitals"
+    },
+    {
+        "ccn": "330010",
+        "lgl_name": null,
+        "prvdr_id": 321838,
+        "prvdr_type_name": "Hospitals"
+    },
+    {
+        "ccn": "337232",
+        "lgl_name": "QC-Medi New York, Inc.",
+        "prvdr_id": 323432,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 157211,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1560880,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1564179,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1560879,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1439594,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1657217,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1493482,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337025",
+        "lgl_name": "Nassau Co Dept Health Homecare",
+        "prvdr_id": 323297,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1613439,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1493363,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337048",
+        "lgl_name": null,
+        "prvdr_id": 1041126,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337060",
+        "lgl_name": "Viahealth Home Care Chha",
+        "prvdr_id": 323316,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1441376,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 158765,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "Denzel's HHA provider",
+        "prvdr_id": 1617073,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "330133",
+        "lgl_name": null,
+        "prvdr_id": 321926,
+        "prvdr_type_name": "Hospitals"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1556452,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1454643,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 161756,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1593942,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337431",
+        "lgl_name": "Fort Tryon Rehabilitation and Health Care Facility, LLC",
+        "prvdr_id": 1179975,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1637381,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1484674,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 155893,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1485259,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "330201",
+        "lgl_name": null,
+        "prvdr_id": 321975,
+        "prvdr_type_name": "Hospitals"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 162997,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1485279,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1647890,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1439601,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "Denzel's HHA provider",
+        "prvdr_id": 124492,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1496007,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "Denzel's HHA provider",
+        "prvdr_id": 1614194,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337140",
+        "lgl_name": "The Dominican Sisters Family Health Service, Inc.",
+        "prvdr_id": 323356,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1487550,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1568642,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337211",
+        "lgl_name": "Bethel Nursing Home Company, Inc.",
+        "prvdr_id": 323414,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1551250,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337242",
+        "lgl_name": "Mercy Hospital Long Term Hhcp",
+        "prvdr_id": 323440,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1657228,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337093",
+        "lgl_name": "Mount Sinai Hosp Home Care Dep",
+        "prvdr_id": 323336,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337228",
+        "lgl_name": "Home Health Providers Inc",
+        "prvdr_id": 323428,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1572364,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1493358,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1637383,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1551253,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "Denzel's HHA provider",
+        "prvdr_id": 109763,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1508721,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 159644,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337462",
+        "lgl_name": "Denzel's HHA provider",
+        "prvdr_id": 101740,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 157209,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 154800,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337448",
+        "lgl_name": "Queens Long Island Certified Home Health Agency, LLC",
+        "prvdr_id": 1334871,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1621136,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 159641,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1602485,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 157218,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 155894,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1653386,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "330048",
+        "lgl_name": null,
+        "prvdr_id": 321865,
+        "prvdr_type_name": "Hospitals"
+    },
+    {
+        "ccn": "337209",
+        "lgl_name": "Sisters of Charity Hospital LTHHCP",
+        "prvdr_id": 323412,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 163004,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1610062,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337240",
+        "lgl_name": null,
+        "prvdr_id": 1041143,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 162629,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 153828,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 164061,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "330191",
+        "lgl_name": null,
+        "prvdr_id": 321966,
+        "prvdr_type_name": "Hospitals"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1524468,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1546979,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1649661,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337122",
+        "lgl_name": "NYC Health and Hospital Corporation",
+        "prvdr_id": 323348,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1439596,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 159458,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337169",
+        "lgl_name": "Gouverneur Hospital Chha",
+        "prvdr_id": 323376,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1485879,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337278",
+        "lgl_name": "Morningside Acquisition I, LLC",
+        "prvdr_id": 323473,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1643152,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1647883,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "Denzel's HHA provider",
+        "prvdr_id": 1605246,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337408",
+        "lgl_name": "Litson Certified Care, Inc., d/b/a Willcare",
+        "prvdr_id": 323503,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1439599,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1606324,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1493481,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1528722,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1469327,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1631757,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 156630,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337276",
+        "lgl_name": "The Hebrew Home for the Aged at Riverdale",
+        "prvdr_id": 323471,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1568646,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1546984,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1602486,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1487538,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "330246",
+        "lgl_name": null,
+        "prvdr_id": 322013,
+        "prvdr_type_name": "Hospitals"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1546983,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1524557,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337257",
+        "lgl_name": "L. Woerner, Inc., d/b/a HCR",
+        "prvdr_id": 323454,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1508701,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1610061,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "TEST McGlynn LLC 97815",
+        "prvdr_id": 1575871,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1613434,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1625318,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1439598,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "TEST Dietrich Inc 68217",
+        "prvdr_id": 1575772,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1469316,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1636025,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337082",
+        "lgl_name": null,
+        "prvdr_id": 1041128,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1500356,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1653390,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337239",
+        "lgl_name": null,
+        "prvdr_id": 1041142,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337244",
+        "lgl_name": "Recco Visiting Nurses Chha",
+        "prvdr_id": 323442,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "61448",
+        "lgl_name": "New York Milkshake and More Home Health",
+        "prvdr_id": 61448,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337184",
+        "lgl_name": "Home Care Buffalo Inc",
+        "prvdr_id": 323389,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1633738,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1623544,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "Denzel's HHA provider",
+        "prvdr_id": 1612350,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337291",
+        "lgl_name": "St Elizabeth Certified Home Care",
+        "prvdr_id": 323484,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1640936,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337050",
+        "lgl_name": "Greene County Public Health Nursing Service CHHA",
+        "prvdr_id": 323309,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "Denzel's HHA provider",
+        "prvdr_id": 118324,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "Denzel's HHA provider",
+        "prvdr_id": 122465,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337059",
+        "lgl_name": null,
+        "prvdr_id": 1041127,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "330053",
+        "lgl_name": null,
+        "prvdr_id": 321868,
+        "prvdr_type_name": "Hospitals"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1651586,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1564169,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1600574,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 165113,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "330056",
+        "lgl_name": null,
+        "prvdr_id": 321870,
+        "prvdr_type_name": "Hospitals"
+    },
+    {
+        "ccn": "337292",
+        "lgl_name": "QC-Medi New York, Inc.",
+        "prvdr_id": 323485,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1633735,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1476807,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337014",
+        "lgl_name": "Visiting Nurse Service and Hospice of Suffolk Inc",
+        "prvdr_id": 323291,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337461",
+        "lgl_name": "Denzel's HHA provider",
+        "prvdr_id": 99495,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1621127,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 161739,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1629549,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1621137,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 154797,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337193",
+        "lgl_name": "St Marys Hospital For Children, Inc.",
+        "prvdr_id": 323397,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "Denzel's HHA provider",
+        "prvdr_id": 120483,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 155888,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1490522,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1653395,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1469320,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1567096,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1568652,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1484676,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1566769,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337196",
+        "lgl_name": "Highland View Care Center Operating Co., LLC",
+        "prvdr_id": 323400,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1640942,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "TEST Maggio Inc 59260",
+        "prvdr_id": 1576415,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1633737,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "Provider Name",
+        "prvdr_id": 47521,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 154796,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1493362,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "Denzel's HHA provider",
+        "prvdr_id": 1644803,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 158769,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1528792,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1647884,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1618150,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337061",
+        "lgl_name": "Metropolitan Jewish Home Care, Inc.",
+        "prvdr_id": 323317,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1500344,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1487539,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1600578,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1640938,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1625315,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1651584,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337212",
+        "lgl_name": "Vns Ithaca  Tompkins Co Chha",
+        "prvdr_id": 323415,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1621132,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337275",
+        "lgl_name": "Childs Nursing Home Company, Inc. LTHHCP",
+        "prvdr_id": 323470,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 156620,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "331318",
+        "lgl_name": null,
+        "prvdr_id": 1334017,
+        "prvdr_type_name": "Hospitals"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1611771,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337284",
+        "lgl_name": "Oswego Health Home Care, LLC",
+        "prvdr_id": 323477,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1597473,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337216",
+        "lgl_name": null,
+        "prvdr_id": 1041139,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337107",
+        "lgl_name": "Good Samaritan Hospital of Suffern, Inc.",
+        "prvdr_id": 323338,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337230",
+        "lgl_name": "Health Quest Home Care, Inc. (Certified)",
+        "prvdr_id": 323430,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "Denzel's HHA provider",
+        "prvdr_id": 1468751,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1649669,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337006",
+        "lgl_name": "Visiting Nurse Association of Western New York, Inc.",
+        "prvdr_id": 323284,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1633745,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 156614,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1629557,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 153831,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "330389",
+        "lgl_name": null,
+        "prvdr_id": 322067,
+        "prvdr_type_name": "Hospitals"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1593941,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1485860,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337125",
+        "lgl_name": "City Hosp ital Center at Elmhurst Home Care Department",
+        "prvdr_id": 323349,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "Denzel's HHA provider",
+        "prvdr_id": 1562144,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1647888,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "156608",
+        "lgl_name": "Prov1TEST2AK-AOU-NY-R2",
+        "prvdr_id": 156608,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1476808,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1623537,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 162996,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 156616,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1626976,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1600579,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1653394,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337023",
+        "lgl_name": "L. Woerner, Inc.",
+        "prvdr_id": 323295,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337215",
+        "lgl_name": "Ideal Senior Living Center, Inc.",
+        "prvdr_id": 323418,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "Denzel's HHA provider",
+        "prvdr_id": 1638096,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 155925,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337251",
+        "lgl_name": "McAuley Seton Home Care Corporation",
+        "prvdr_id": 323448,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "Denzel's HHA provider",
+        "prvdr_id": 1625888,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1593933,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337438",
+        "lgl_name": "Extraordinary Home Care",
+        "prvdr_id": 1249147,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 153826,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1485278,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 161742,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 165116,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337197",
+        "lgl_name": "Our Lady Of Consolation Geriatric Care Center",
+        "prvdr_id": 323401,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337085",
+        "lgl_name": "St Lawrence County Public Health Department",
+        "prvdr_id": 323332,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1566768,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1564268,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1487527,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 162618,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1556449,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "Provider Name",
+        "prvdr_id": 57460,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1485276,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "Denzel's HHA provider",
+        "prvdr_id": 1603204,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "330095",
+        "lgl_name": null,
+        "prvdr_id": 321898,
+        "prvdr_type_name": "Hospitals"
+    },
+    {
+        "ccn": "337449",
+        "lgl_name": "Guthrie Home Care",
+        "prvdr_id": 1337213,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1635587,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337013",
+        "lgl_name": "Steuben Co Public Hlth Chha",
+        "prvdr_id": 323290,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "330333",
+        "lgl_name": null,
+        "prvdr_id": 322050,
+        "prvdr_type_name": "Hospitals"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1647886,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1564178,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1496021,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1606331,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337194",
+        "lgl_name": "St Josephs Hosp Yonkers Lthhcp",
+        "prvdr_id": 323398,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337226",
+        "lgl_name": "Episcopal General Homecare Inc",
+        "prvdr_id": 323426,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1643150,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "TEST Sanford Group 90864",
+        "prvdr_id": 1576545,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1508705,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 155148,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "Onondaga Co Dpt Ltc Comm Svs",
+        "prvdr_id": 1520611,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "330202",
+        "lgl_name": null,
+        "prvdr_id": 321976,
+        "prvdr_type_name": "Hospitals"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1608186,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1629552,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1602490,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1551248,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337416",
+        "lgl_name": "Split Rock Rehabilitation and Health Care Center, LLC",
+        "prvdr_id": 323511,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1564273,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 155899,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1606323,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337172",
+        "lgl_name": "Columbia County Department of Health Division of Nursing CHHA",
+        "prvdr_id": 323379,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1635585,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337132",
+        "lgl_name": "Lincoln Hospital Homecare Dep",
+        "prvdr_id": 323351,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337298",
+        "lgl_name": "Olsten Health Services",
+        "prvdr_id": 323491,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337418",
+        "lgl_name": "Living Resources Chha",
+        "prvdr_id": 323513,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1568647,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1454637,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337405",
+        "lgl_name": "PTS of Westchester, Inc.",
+        "prvdr_id": 323500,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337231",
+        "lgl_name": "St Charles Hosp Rehab Ctr Lthhp",
+        "prvdr_id": 323431,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "330078",
+        "lgl_name": null,
+        "prvdr_id": 321885,
+        "prvdr_type_name": "Hospitals"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 158761,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 158771,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "Test Provider L NYC",
+        "prvdr_id": 1632442,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1469325,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "330101",
+        "lgl_name": null,
+        "prvdr_id": 321903,
+        "prvdr_type_name": "Hospitals"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "Litson Certified Care  Inc",
+        "prvdr_id": 1520612,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1616271,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1604390,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1490524,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "Denzel's HHA provider",
+        "prvdr_id": 126111,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1485894,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1500341,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 155932,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1566764,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1496023,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1657218,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1493486,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1643145,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1655199,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1610064,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337148",
+        "lgl_name": "North Shore University Hospital, Inc., d/b/a North Shore Home Care",
+        "prvdr_id": 323360,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "Denzel's HHA provider",
+        "prvdr_id": 118575,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 155908,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1551251,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 159631,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "Provider Name",
+        "prvdr_id": 53288,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337224",
+        "lgl_name": "Gentiva Health Services Binghamton",
+        "prvdr_id": 323424,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1637384,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1645890,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1649664,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "330014",
+        "lgl_name": null,
+        "prvdr_id": 321842,
+        "prvdr_type_name": "Hospitals"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "vnewyork1",
+        "prvdr_id": 5721,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 162626,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1597470,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1597474,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1441387,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1496014,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1653385,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1599134,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 158760,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 155916,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1604388,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1636027,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1567098,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1441380,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1551254,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "Heidenreich-Osinski",
+        "prvdr_id": 2907,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1564272,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1623547,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1490518,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1546973,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1512095,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1572361,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337459",
+        "lgl_name": "Denzel's HHA provider",
+        "prvdr_id": 98550,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1599135,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1653393,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "330204",
+        "lgl_name": null,
+        "prvdr_id": 321978,
+        "prvdr_type_name": "Hospitals"
+    },
+    {
+        "ccn": "337302",
+        "lgl_name": "QC-Medi New York, Inc.",
+        "prvdr_id": 1240699,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1621128,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1645896,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337260",
+        "lgl_name": "Tender Loving Care Health Care Services of Nassau Suffolk, LLC",
+        "prvdr_id": 323455,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1568653,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1621131,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 155890,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1560884,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1493485,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337168",
+        "lgl_name": "Nyack Hosp Home Care Chha",
+        "prvdr_id": 323375,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1599139,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "Denzel's HHA provider",
+        "prvdr_id": 1562512,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 163003,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "Provider Name",
+        "prvdr_id": 51970,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1476800,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1493483,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337167",
+        "lgl_name": "United Hosp Home Health Chha",
+        "prvdr_id": 323374,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1657219,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337086",
+        "lgl_name": "Franklin County Public Health Services CHHA",
+        "prvdr_id": 323333,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1508717,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 165114,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "Denzel's HHA provider",
+        "prvdr_id": 1599490,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337269",
+        "lgl_name": "Childrens Hosp Hc",
+        "prvdr_id": 323464,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1640941,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1623541,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1631759,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337206",
+        "lgl_name": null,
+        "prvdr_id": 1041138,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1441378,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1597468,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "NY1111",
+        "lgl_name": "New York Milkshake Home Health",
+        "prvdr_id": 61449,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337052",
+        "lgl_name": "Visiting Nurse Association of Central New York, Inc.",
+        "prvdr_id": 323311,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1528805,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "Denzel's HHA provider",
+        "prvdr_id": 1628469,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337435",
+        "lgl_name": "CABS Nursing Home Company, Inc, d/b/a CNH Long Term Home Health Program",
+        "prvdr_id": 1189107,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1568649,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1591983,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1600576,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1623546,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337427",
+        "lgl_name": "NY Foundling Hosp Ctr for Pediatrics, Medical, and Rehabilitative Care, Inc.",
+        "prvdr_id": 1173041,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1631760,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 155895,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "Denzel's HHA provider",
+        "prvdr_id": 121949,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337153",
+        "lgl_name": "Cabrini Medical Center Chha",
+        "prvdr_id": 323365,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "TEST McLaughlin Inc 74372",
+        "prvdr_id": 1577124,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1611778,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1572354,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1629548,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1512094,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1604383,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1485876,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 155896,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 157217,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337154",
+        "lgl_name": "Kingsbrook Jewish Medical  Center CHHA",
+        "prvdr_id": 323366,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 157659,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "330290",
+        "lgl_name": null,
+        "prvdr_id": 322037,
+        "prvdr_type_name": "Hospitals"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1629550,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1500345,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "New York Milkshake Test 2",
+        "prvdr_id": 65591,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1454640,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 161741,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337079",
+        "lgl_name": "Cayuga County Chha",
+        "prvdr_id": 323328,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1655197,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "333030",
+        "lgl_name": null,
+        "prvdr_id": 1369239,
+        "prvdr_type_name": "Hospitals"
+    },
+    {
+        "ccn": "337188",
+        "lgl_name": null,
+        "prvdr_id": 1041137,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "Prov1TEST2AK-ROGU-NY-R2",
+        "prvdr_id": 156607,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1626973,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "330126",
+        "lgl_name": null,
+        "prvdr_id": 321921,
+        "prvdr_type_name": "Hospitals"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "Denzel's HHA provider",
+        "prvdr_id": 1564867,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1629551,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1618151,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": "337089",
+        "lgl_name": "Allegany Co Health Dept Chha",
+        "prvdr_id": 323334,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "Denzel's HHA provider",
+        "prvdr_id": 1590970,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 1528796,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 159647,
+        "prvdr_type_name": "Home Health Agencies"
+    },
+    {
+        "ccn": null,
+        "lgl_name": "testing 123",
+        "prvdr_id": 164055,
+        "prvdr_type_name": "Home Health Agencies"
+    }
+]

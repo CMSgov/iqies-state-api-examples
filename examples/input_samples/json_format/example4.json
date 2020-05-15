@@ -1,0 +1,13 @@
+{
+  "sql": {
+    "select": "p.prvdr_id, p.lgl_name, p.ccn,b.brnch_name",
+    "from": "provider.prvdr p",
+    "joins": [
+      {
+        "leftJoin": "provider.brnch b",
+        "on": "p.prvdr_id = b.prvdr_id"
+      }
+    ]
+  },
+  "replacements": {}
+}
